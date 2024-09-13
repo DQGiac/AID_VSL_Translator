@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artificial Intellegence for the Deaf</title>
+    <link rel="stylesheet" type="text/css" href="/static/style.css"/>
+    <link rel="shortcut icon" href="/static/icon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  </head>
+  <body>
+    <br>
+    <nav id="menu-nav">
+        <div><a class="nav" href="{{ url_for('home') }}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></div>
+        <div><a class="nav" href="{{ url_for('speech_to_hand_web') }}">Speech to Hand</a></div>
+        <div><a class="nav" href="{{ url_for('hand_to_speech_web') }}">Hand to Speech</a></div>
+    </nav>
+    <br><br>
+    <h2>Simple Recorder.js demo</h2>
+
+    <div id="controls">
+      <button id="recordButton">Record</button>
+      <button id="pauseButton" disabled>Pause</button>
+      <button id="stopButton" disabled>Stop</button>
+    </div>
+    <div id="formats">Format: start recording to see sample rate</div>
+    <p><strong>Recordings:</strong></p>
+    <img id="display" src="">
+    <p id="result"></p>
+    <!-- inserting these scripts at the end to be able to use all the elements in the DOM -->
+    <script src="/static/script_sth.js"></script>
+  </body>
+</html>

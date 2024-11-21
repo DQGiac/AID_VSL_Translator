@@ -15,5 +15,5 @@ Voice to sign language:<br>
 <li>Use SpeechRecognition to recognize speech, output text
 <li>From text, display image from library
 <h1>VISION</h1>
-Develop the project into an API but much easier to use, code-free, and user-friendly.<br>
+Develop the project into an API but easy-to-use, code-free, and user-friendly.<br>
 Essentially envisioned to be a drag-and-down style app for the deaf to create whatever creation to suit their personal needs (shopping, medical checkups, educational purposes, etc.)

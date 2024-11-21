@@ -31,7 +31,7 @@ running = False
 moving = ["L"]
 
 def gemini(text_a):
-    genai.configure(api_key = "AIzaSyD1ZNpOJU8jmcf-x5g_xpqIIl9HcsXMla4")
+    genai.configure(api_key = "_")
     model = genai.GenerativeModel('gemini-1.5-flash')
     text_b = "sửa lại câu nếu sai, trả lại kết quả chỉ là câu đã sửa: " + text_a
     response = model.generate_content(text_b)

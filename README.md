@@ -10,8 +10,8 @@ With a population of over one million <sup><a href="https://www.dvv-internationa
 <br>
 <h1>FEATURES</h1>
 <b>Sign language to voice</b>:
-<li>Trained model to recognize individual letters in the alphabet and a few common words with keras' Image recognition</li>
-<li>Used gTTS (Google's Text to speech)</li>
+<li>Trained model to recognize individual letters in the alphabet and a few common words with Keras's Image recognition</li>
+<li>Used gTTS (Google's Text to Speech)</li>
 <br>
 <b>Voice to sign language</b>:
 <li>Used SpeechRecognition</li>
@@ -22,4 +22,4 @@ With a population of over one million <sup><a href="https://www.dvv-internationa
 <li>Google Meet</li>
 <h1>VISION</h1>
 Develop the project into an API but easy-to-use, code-free, and user-friendly.<br>
-Essentially envisioned to be a drag-and-down style app for the deaf to create whatever creation to suit their personal needs (shopping, medical checkups, educational purposes, etc.)
+Essentially envisioned to be a drag-and-drop style app for the deaf to create whatever creation to suit their personal needs (shopping, medical checkups, educational purposes, etc.)

@@ -1,12 +1,14 @@
 <h1>CREDIT</h1>
 <b>Idea</b>: Giac Quang Do, Hoang Vinh Nguyen<br>
 <b>Code</b>: Giac Quang Do, Hoang Vinh Nguyen<br>
-<b>UI/UX</b>: Huan Minh Phan, Huy Quoc Nguyen<br>
 <b>Surveyor</b>: Huy Quoc Nguyen<br>
-<b>Media</b>: Huan Minh Phan<br>
+<b>Media</b>: Giac Quang Do, Huan Minh Phan, Huy Quoc Nguyen<br>
+<b>Writing</b>: Huy Quoc Nguyen<br>
 <br>
 <h1>IDEA</h1>
-With a population of over one million <sup><a href="https://www.dvv-international.de/en/adult-education-and-development/editions/aed-842017-inclusion-and-diversity/columns/raising-the-voice-of-deaf-people">[*]</a></sup>, the deaf community in Vietnam is growing larger and larger every day. In every day life, they face numerous difficulties that could even harm their health (cannot communicate with doctors, nurses...). There are sign languages in Vietnam, but between regions are vast differences and the number of learners/teachers are currently extremely low. Not to mention, not everybody knows sign language, so it is extremely difficult to communicate with everyone. And that is why we coded a sign language translator.<br>
+With a population of over one million <sup><a href="https://www.dvv-international.de/en/adult-education-and-development/editions/aed-842017-inclusion-and-diversity/columns/raising-the-voice-of-deaf-people">[1]</a></sup>, the deaf community in Vietnam is growing every day. They face numerous difficulties in everyday life that could potentially harm them (unable to communicate with doctors and nurses or create social isolation, contributing to stress and depression).<br>
+Sign languages do exist in Vietnam, but only to a small extent, due to differences in signs between regions (there are at least 3 different sign languages <sup><a href="https://en.wikipedia.org/wiki/Vietnamese_sign_languages">[2]</a></sup>) and the extremely low number of both learners and teachers. Not to mention, not everybody knows sign language, so it is extremely difficult to communicate with other people.<br>
+We chose to develop a sign language translator directed towards Vietnamese using Hanoi Sign Language as the core.<br>
 <br>
 <h1>FEATURES</h1>
 <b>Sign language to voice</b>:
@@ -20,6 +22,7 @@ With a population of over one million <sup><a href="https://www.dvv-internationa
 <b>Compatible with</b>:
 <li>Zoom calls</li>
 <li>Google Meet</li>
+<br>
 <h1>VISION</h1>
 Develop the project into an API but easy-to-use, code-free, and user-friendly.<br>
-Essentially envisioned to be a drag-and-drop style app for the deaf to create whatever creation to suit their personal needs (shopping, medical checkups, educational purposes, etc.)
+A drag-and-drop style app for the deaf to create whatever creation to suit their personal needs (shopping, medical checkups, educational purposes, etc.)

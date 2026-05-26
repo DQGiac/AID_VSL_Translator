@@ -1,0 +1,10 @@
+numpy
+open_clip_torch
+pillow
+streamlit
+torch
+transformers
+qdrant-client
+moviepy
+easyocr
+mtranslate

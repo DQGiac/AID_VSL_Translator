@@ -12,7 +12,7 @@ We chose to develop a sign language translator directed towards Vietnamese using
 <br>
 <h1>FEATURES</h1>
 <b>Sign language to voice</b>:
-<li>Trained model to recognize individual letters in the alphabet and a few common words with OpenCV's Hand Detector Module</li>
+<li>Trained model to recognize individual letters in the alphabet and a few common words with OpenCV's HandTracking Module</li>
 <li>Used gTTS (Google's Text to Speech)</li>
 <br>
 <b>Voice to sign language</b>:
